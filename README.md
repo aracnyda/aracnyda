@@ -6,14 +6,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/12171242169">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12171242169&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 data-importer="text" align="left">My tech stack includes</h2>
 
 ###
@@ -29,13 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
@@ -48,7 +34,7 @@
 
 ###
 
-<p data-importer="text" align="left">Check out more about me & my experience on my <a href="https://app.notion.com/p/About-Andrea-Racine-2a4e5aea7a9c801e81bcc146a6b8bbfd?source=copy_link" target="_blank" rel="noopener noreferrer">Notion</a> site! Feel free to reach out through any of my contacts below as well.</p>
+<p> Feel free to reach out through any of my contacts below:</p>
 
 ###
 
